@@ -1,15 +1,18 @@
-.cabecalho{
-background-color: #383D58;
-color: white;
-display: flex;
-justify-content: space-around ;
+.cabecalho {
+    background-color: #383D58;
+    color: white;
+    display: flex;
+    justify-content: space-around;
 }
-.Lua{
-    width: 600px;
-    position: relative;
-    top: 5px;
-    left: 20px;
+.jordan{
+    width: 500px;
+    position: center;
+    top: 50px;
+    left: 200px;
 }
 .cabecalho-lista-item{
-    display: inline-block;
+ display:inline-block;   
+margin: 0 16px;
+padding:  24px 0;
+font-size: 24px;
 }
